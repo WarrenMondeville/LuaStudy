@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 165448691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c2db10a18bb49eb96b008341323d06b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d939235ee6743bef52c811cf0dfd43c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e63fae759d9559489e19159b5efe028, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Player.prefab
+Dependencies:
+- F:/MyGit/LuaStudy/HotFixProject/Assets/StreamingAssets/ABs/player.assetbundle

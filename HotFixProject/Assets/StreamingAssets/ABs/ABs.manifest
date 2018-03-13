@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3126682340
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: player.assetsboundle
+      Dependencies:
+        Dependency_0: player.assetbundle
+    Info_1:
+      Name: player.assetbundle
+      Dependencies: {}
